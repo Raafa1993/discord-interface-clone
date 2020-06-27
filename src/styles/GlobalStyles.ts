@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import { deflate } from 'zlib';
+
 
 export default createGlobalStyle`
 * {

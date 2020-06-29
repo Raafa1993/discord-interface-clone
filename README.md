@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src\assets\img\favicon.png" width="300px"/>
+  <img src="src\assets\favicon.png" width="300px"/>
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="src\assets\banner.jpg"/>
+  <img src="src\assets\banner.JPG" width="720px"/>
 </p>
 
 <br>

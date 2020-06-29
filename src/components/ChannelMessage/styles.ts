@@ -22,6 +22,8 @@ export const Container = styled.div`
 `;
 
 export const Avatar = styled.div`
+    flex-shrink: 0;
+    
     width: 40px;
     height: 40px;
 

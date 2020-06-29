@@ -13,7 +13,7 @@ export const Container = styled.div`
     background-color: var(--primary);
 
     box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.2);
-    z-indez: 2;
+    z-index: 2;
 `;
 
 export const HashtagIcon = styled(Hashtag)`

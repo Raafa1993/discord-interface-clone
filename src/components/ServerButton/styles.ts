@@ -43,7 +43,7 @@ export const Button = styled.button<Props>`
         width: auto;
         height: 16px;
 
-        padding 0 4px;
+        padding: 0 4px;
 
         position: absolute;
         right: -4px;
